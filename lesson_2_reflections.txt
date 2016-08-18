@@ -1,5 +1,8 @@
 Q-What happens when you initialize a repository? Why do you need to do it?
-A-it creates a hidden directory (.Git). This is the first step to get to work.
+A-It creates a hidden directory (.Git). This is the first step to get to work.
 
 Q-How is the staging area different from the working directory and the repository? What value do you think it offers?
 A-It's a previous step to get into the repository and seems to be good for the memory of your machine.
+
+Q-How can you use the staging area to make sure you have one commit per logical change?
+A-Just needed to compare the staging area and the working directory.
