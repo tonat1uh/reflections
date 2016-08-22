@@ -12,3 +12,6 @@ A-When you achieve the beta mode of your code and you need to try diferent optio
 
 Q-How do the diagrams help you visualize the branch structure?
 A-It's like a time line, it helps you to get just right.
+
+Q-What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A-The combination of both commit makes easier to work with them.
