@@ -6,3 +6,6 @@ A-The remote repository is public so you might doublecheck the changes made to y
 
 Q-Describe the differences between forks, clones, and branches. When would you use one instead of another?
 A-Forks work only with GitHub, Clones work with repositories local or remote and Branches are just local.
+
+Q-What is the benefit of having a copy of the last known state of the remote stored locally?
+A-It makes easier to track a previous commit.
