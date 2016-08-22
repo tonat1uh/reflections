@@ -1,2 +1,5 @@
 Q-When would you want to use a remote repository rather than keeping all your work local?
 A-If you are freelance or homeoffice it's great this GitHub thing. 
+
+Q-Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+A-The remote repository is public so you might doublecheck the changes made to your code.
