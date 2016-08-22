@@ -15,3 +15,6 @@ A-It's like a time line, it helps you to get just right.
 
 Q-What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 A-The combination of both commit makes easier to work with them.
+
+Q-What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A-Git can't resolve conflicts.
