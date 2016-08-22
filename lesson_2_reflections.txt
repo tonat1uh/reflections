@@ -6,3 +6,6 @@ A-It's a previous step to get into the repository and seems to be good for the m
 
 Q-How can you use the staging area to make sure you have one commit per logical change?
 A-Just needed to compare the staging area and the working directory.
+
+Q-What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A-When you achieve the beta mode of your code and you need to try diferent options of whats next.
