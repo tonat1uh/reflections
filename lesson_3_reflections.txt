@@ -9,3 +9,6 @@ A-Forks work only with GitHub, Clones work with repositories local or remote and
 
 Q-What is the benefit of having a copy of the last known state of the remote stored locally?
 A-It makes easier to track a previous commit.
+
+Q-How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A-Git and GitHub helps you to make a better teamwork because every one of the people involved can work individually.
