@@ -12,3 +12,6 @@ A-It makes easier to track a previous commit.
 
 Q-How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 A-Git and GitHub helps you to make a better teamwork because every one of the people involved can work individually.
+
+Q-When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A-When you'r trying new stuff, like optimize your code or share your project with everybody.
